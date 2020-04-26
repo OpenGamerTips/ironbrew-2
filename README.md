@@ -1,2 +1,2 @@
-#IronBrew 2
-VM-based Lua 5.1 obfuscation.
+## IronBrew 2
+Apparently it is a Lua Obfuscator which is cool.
