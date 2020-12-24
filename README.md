@@ -1,2 +1,1 @@
-## IronBrew 2
-Apparently it is a Lua Obfuscator which is cool.
+# omg am i happy to find someone still having this repo
